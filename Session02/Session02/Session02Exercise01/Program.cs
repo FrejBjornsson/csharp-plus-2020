@@ -8,9 +8,9 @@ namespace Session02Exercise01
         {
             Console.WriteLine("Hej världen!");
 
-            var integer = 0;
+            string stringvalue = "My stringvalue";
 
-            Console.WriteLine("Integer is " + integer.ToString());
+            Console.WriteLine("The value of my stringvalue is:" + stringvalue);
         }
     }
 }
