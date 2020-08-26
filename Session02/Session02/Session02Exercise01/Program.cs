@@ -7,8 +7,6 @@ namespace Session02Exercise01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            string stringValue = "MyStringValue";
-            Console.WriteLine("The value of StringValue is:" + stringValue);
         }
     }
 }
